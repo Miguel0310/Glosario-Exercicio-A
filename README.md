@@ -37,5 +37,20 @@ public class Funcionario
         }
   ```
  
-## Palavra reservada new
+## Palavra reservada *new*
 A palavra reservada <code>new</code> é usada únicamente para instanciar objetos
+
+## Palavra reservada *instanciof*
+Determina se um objeto é a instancia de uma classe, superclasse ou interface. O objetivo do operador é conhecer se um objeto é de um determinado tipo. Por tipo define-se como classe ou interface.
+```JAVA
+class Animal {
+class Perro extends Animal {
+   public static void main (String[] args){
+     Perro toby = new Perro();
+     if (toby instanceof Animal)
+       System.out.println("toby es un perro y también un animal");
+   }
+}
+}
+```
+a
