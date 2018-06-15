@@ -5,8 +5,8 @@
 
 <p>
 ```js
-   <code>function sayHello(){
-   return 'hi!';
-      }</code>
+  <pre><code>function sayHello() {
+    return 'hi!';
+  }</code></pre>
   ```
 </p>
