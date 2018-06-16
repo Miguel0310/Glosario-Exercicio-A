@@ -56,4 +56,12 @@ class Perro extends Animal {
 ## 5. Encapsulamento
 Encapsulamento em POO é definido como um *ocultamiento* do estado, sirve para que só possa modificar-se mediante operações definidas para ese objeto
 
+* Predeterminado
+* +Public: Pode ser acessado por afora da classe e qualquer parte do programa.
+* #Protected: Só pode ser acessado pela classe e por suas herenças.
+* -Private: Só pode-se acessar pela mesma classe.
+
 ## 6. Palavra reservada this
+
+## 6. Palavra reservada this
+
