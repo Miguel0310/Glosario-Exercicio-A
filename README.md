@@ -37,10 +37,10 @@ public class Funcionario
         }
   ```
  
-## Palavra reservada *new*
+## 3. Palavra reservada *new*
 A palavra reservada <code>new</code> é usada únicamente para instanciar objetos
 
-## Palavra reservada *instanciof*
+## 4. Palavra reservada *instanciof*
 Determina se um objeto é a instancia de uma classe, superclasse ou interface. O objetivo do operador é conhecer se um objeto é de um determinado tipo. Por tipo define-se como classe ou interface.
 ```JAVA
 class Animal {
@@ -53,4 +53,7 @@ class Perro extends Animal {
 }
 }
 ```
-a
+## 5. Encapsulamento
+Encapsulamento em POO é definido como um *ocultamiento* do estado, sirve para que só possa modificar-se mediante operações definidas para ese objeto
+
+## 6. Palavra reservada this
