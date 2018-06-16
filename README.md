@@ -108,3 +108,9 @@ Exemplo:
 }
 ```
 E no __main__ será implementado suas respetivas entrada e retorno de valores.
+
+## 8. Palavra reservada public/private
+Sao modificadores de acesso que permitem a visibilidade das **classes, métodos e atributos**.
+Como segurança e boa prática de programação, nas declaraçoes de variáveis é usada o **private** para garantir a modificação accidental sendo só acessivel através do método.
+
+## 9. Assinatura de método
