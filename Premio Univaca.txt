@@ -1,0 +1,25 @@
+Virtualização do controle da carteira de vacinas
+
+TITULO: Imune
+
+JUSTIFICATIVA: Facilitar o monitoramento das condições de saúde da sociedade em geral, podendo manter um controle sobre novas doenças e epidemias que possam surgir.  
+
+Manter o cidadão informado sobre vacinas necessárias e todo seu histórico, podendo ser acessado de qualquer dispositivo online, eliminando a necessidade de transportar a carteira de vacinação física.  
+
+OBJETIVO: O projeto tem como objetivo, criar uma carteira de vacinação virtual, que esteja disponível a todo momento e de qualquer dispositivo com acesso à Internet. 
+
+MEMBRO: Erick de Souza, Esteban Miguel Nallar, Karlos Pfaffenzeller, Marcelo Pickler, Ramon Bigolín Berft
+
+TIPO: INCREMENTAL
+
+CLASSIFICAÇÃO: SERVIÇO
+
+CARACTERISTICAS: Alerta de necessidade de vacinas específicas em casos de viagem. Alertas de epidemias e locais com vacinas disponíveis. Lembrete sobre término da eficácia do medicamento. 
+
+ESPECIFICAÇÃO: Nosso serviço seria disponibilizar a carteira de vacinação física de forma virtual. Histórico das vacinas tomadas, Alerta de epidemias e dos locais com vacinas disponíveis.
+
+LEGAL: Nosso projeto poderá entrar em conflito na parte legal para entrar de acordo com os postos de saúde para adotar essa nova carteira de vacinação virtual.
+
+VENTAGENS: As ventagens que o aplicativo irá trazer para a região será que a população terá mais controle das vacinas tomadas e em caso de danificação ou perda da carteira física não terá que ser realizada a emissão de segunda via da carteira o que acarretaria a perda do histórico das vacinas tomadas.
+
+
