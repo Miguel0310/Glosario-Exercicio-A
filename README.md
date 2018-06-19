@@ -1,22 +1,22 @@
 # Glosario Exercicio A
 
-1. Construtor
-2. Instanciação
-3. Palavra reservada new
-4. Palavra reservada instanciof
-5. Encapsulamento
-6. Palavra reservada this
-7. Getters/Setters
-8. Palavra reservada public/private
-9. Assinatura de método
-10. Sobrecarga de método
-11. Escopo de classe
-12. Escopo de objeto
-13. Palavra reservada final
-14. Relacionamento de dependência
-15. Relacinamento de Agregação
-16. Relacionamento de Composição
-17. REFERÊNCIAS
+1. [Construtor](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#1-construtor)
+2. [Instanciação](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#2-instancia%C3%A7%C3%A3o)
+3. [Palavra reservada new](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#3-palavra-reservada-new)
+4. [Palavra reservada instanciof](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#4-palavra-reservada-instanciof)
+5. [Encapsulamento](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#5-encapsulamento)
+6. [Palavra reservada this](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#6-palavra-reservada-this)
+7. [Getters/Setters](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#7-getterssetters)
+8. [Palavra reservada public/private](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#8-palavra-reservada-publicprivate)
+9. [Assinatura de método](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#9-assinatura-de-m%C3%A9todo)
+10. [Sobrecarga de método](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#10-sobrecarga-de-m%C3%A9todo)
+11. [Escopo de classe](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#11-escopo-de-classe)
+12. [Escopo de objeto](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#12-escopo-de-objeto)
+13. [Palavra reservada final](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#13-palavra-reservada-final)
+14. [Relacionamento de dependência](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#14-relacionamento-de-depend%C3%AAncia)
+15. [Relacinamento de Agregação](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#15-relacinamento-de-agrega%C3%A7%C3%A3o)
+16. [Relacionamento de Composição](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#16-relacionamento-de-composi%C3%A7%C3%A3o)
+17. [REFERÊNCIAS](https://github.com/Miguel0310/Glosario-Exercicio-A/blob/master/README.md#17-refer%C3%8Ancias)
 
 ## 1. Construtor
 O construtor é uma subrutina que tem como objetivo inicializar uma clase 
@@ -172,9 +172,9 @@ Pode ser definida como uma parte de um todo. Se a classe aonde a classe de agreg
 ![img3](http://www.linhadecodigo.com.br/artigos/img_artigos/admilson_nogueira/uml_composicao_1.jpg)
 
 ## 17. REFERÊNCIAS
-(https://conceitospoo.wordpress.com/2013/07/01/escopo-de-variavel/)
+https://conceitospoo.wordpress.com/2013/07/01/escopo-de-variavel/
 
-(https://www.devmedia.com.br/forum/uso-da-palavra-reservada-final/565425)
+https://www.devmedia.com.br/forum/uso-da-palavra-reservada-final/565425
 
-(http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx)
+http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx
 
