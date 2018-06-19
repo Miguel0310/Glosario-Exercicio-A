@@ -114,3 +114,25 @@ Sao modificadores de acesso que permitem a visibilidade das **classes, métodos 
 Como segurança e boa prática de programação, nas declaraçoes de variáveis é usada o **private** para garantir a modificação accidental sendo só acessivel através do método.
 
 ## 9. Assinatura de método
+A assinatura de métodos é a maneira de identificar um método de forma única; em um programa aonde pode-se ter os métodos com o mesmo nome, voce precissa de ter uma maneira de diferenciarlos com as siguientes informaçoes.
+* Modificadores: Podem ser **public**, **private**; que indicam a visibilidade do método.
+* Tipo de Retorno: Um método pode ou nao retornar um valor.
+* Nome do método: Nome que identifica-lo.
+* Lista de parâmetro: Os parâmetros que logos sao chamados.
+
+## 10. Sobrecarga de método
+A sobrecarga de métodos permite têr dois ou mais métodos com o mesmo nome com a diferença que realizam diferentes açoes.
+```JAVA
+SOMA(int X, int Y);
+SOMA(String X, String Y);
+SOMA(int X, int Y, int Z);
+```
+## 11. Escopo de classe
+O escopo de uma classe é coinciderada como os límites para uma variavel aonde ela é declarada.
+Se ela é declarada dentro dos métodos, só pode ser usada dentro de aquel método.
+
+## 12. Escopo de objeto
+Refere-se aos límites que uma variavel pode ser usada; ela pode ser categoridaza de distintas maneiras.
+* **Variavel Global:** Existe durante toda a execuçao do programa e pode ser utilizada em cualquer funçao.
+* **Variavel Local:** Só pode ser utilizada dentro de uma funçao e a mesma é declarada nese momento. Ao finalizar aquela tarefa da funçao, a será destruida e nao poderá ser re-utilizada de novo.
+* **Variavel com Parâmetros:** Inicializadas no momentos que sao llamadas as funcoes. Existem treis tipos de variavels com parâmetros que ja forom explicadas com anterioridad.
