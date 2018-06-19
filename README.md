@@ -172,9 +172,14 @@ Pode ser definida como uma parte de um todo. Se a classe aonde a classe de agreg
 ![img3](http://www.linhadecodigo.com.br/artigos/img_artigos/admilson_nogueira/uml_composicao_1.jpg)
 
 ## 17. REFERÊNCIAS
-https://conceitospoo.wordpress.com/2013/07/01/escopo-de-variavel/
+* https://conceitospoo.wordpress.com/2013/07/01/escopo-de-variavel/
 
-https://www.devmedia.com.br/forum/uso-da-palavra-reservada-final/565425
+* https://www.devmedia.com.br/forum/uso-da-palavra-reservada-final/565425
 
-http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx
+* http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx
 
+* https://desenvolvimentoaberto.org/2014/02/14/classes-escopos-java-c-e-c/
+
+* br/trabalhando-com-metodos-em-java/25917
+
+* https://pooperrotti.wikispaces.com/Assinatura+de+métodos
