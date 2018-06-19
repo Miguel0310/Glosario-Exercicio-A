@@ -180,6 +180,4 @@ Pode ser definida como uma parte de um todo. Se a classe aonde a classe de agreg
 
 * https://desenvolvimentoaberto.org/2014/02/14/classes-escopos-java-c-e-c/
 
-* br/trabalhando-com-metodos-em-java/25917
-
 * https://pooperrotti.wikispaces.com/Assinatura+de+métodos
