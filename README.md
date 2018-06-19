@@ -1,5 +1,23 @@
 # Glosario Exercicio A
 
+1. Construtor
+2. Instanciação
+3. Palavra reservada new
+4. Palavra reservada instanciof
+5. Encapsulamento
+6. Palavra reservada this
+7. Getters/Setters
+8. Palavra reservada public/private
+9. Assinatura de método
+10. Sobrecarga de método
+11. Escopo de classe
+12. Escopo de objeto
+13. Palavra reservada final
+14. Relacionamento de dependência
+15. Relacinamento de Agregação
+16. Relacionamento de Composição
+17. REFERÊNCIAS
+
 ## 1. Construtor
 O construtor é uma subrutina que tem como objetivo inicializar uma clase 
 ```JAVA
@@ -135,4 +153,28 @@ Se ela é declarada dentro dos métodos, só pode ser usada dentro de aquel mét
 Refere-se aos límites que uma variavel pode ser usada; ela pode ser categoridaza de distintas maneiras.
 * **Variavel Global:** Existe durante toda a execuçao do programa e pode ser utilizada em cualquer funçao.
 * **Variavel Local:** Só pode ser utilizada dentro de uma funçao e a mesma é declarada nese momento. Ao finalizar aquela tarefa da funçao, a será destruida e nao poderá ser re-utilizada de novo.
-* **Variavel com Parâmetros:** Inicializadas no momentos que sao llamadas as funcoes. Existem treis tipos de variavels com parâmetros que ja forom explicadas com anterioridad.
+* **Variavel com Parâmetros:** Inicializadas no momentos que sao llamadas as funcoes. Embora sejam utilizadas como inicialização da função, elas podem ser utilizadas normalmente como uma variável local dentro do bloco de função onde estão.
+
+## 13. Palavra reservada final
+A palavra reservada final em um método tem a funcao que nao poderá ser sobrescrito; em uma variavel, ela nao poderá trocar de valor, sendo uma constante.
+
+## 14. Relacionamento de dependência
+Uma dependência indica a ocorrência de um relacionamento semântico entre dois ou mais elementos do modelo, onde uma classe cliente é dependente de alguns serviços da classe fornecedora, mas não tem uma dependência estrutural interna com esse fornecedor
+
+![img1](http://www.linhadecodigo.com.br/artigos/img_artigos/admilson_nogueira/uml_dependencia.jpg)
+
+## 15. Relacinamento de Agregação
+É uma forma especializada na qual os relacionamentos é coinciderado com um todo com suas partes.
+![img2](http://www.linhadecodigo.com.br/artigos/img_artigos/admilson_nogueira/uml_agregacao_1.jpg)
+
+## 16. Relacionamento de Composição
+Pode ser definida como uma parte de um todo. Se a classe aonde a classe de agregacao está é destruido, ambos serao destruidos.
+![img3](http://www.linhadecodigo.com.br/artigos/img_artigos/admilson_nogueira/uml_composicao_1.jpg)
+
+## 17. REFERÊNCIAS
+(https://conceitospoo.wordpress.com/2013/07/01/escopo-de-variavel/)
+
+(https://www.devmedia.com.br/forum/uso-da-palavra-reservada-final/565425)
+
+(http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx)
+
